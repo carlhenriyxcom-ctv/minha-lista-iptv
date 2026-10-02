@@ -1,0 +1,26 @@
+#EXTM3U
+# --- O Incrível Circo Digital (2023) - Temporada 1 ---
+
+#EXTINF:-1 tvg-id="CircoDigital.S01E01" tvg-name="O Incrivel Circo Digital S01E01" group-title="SÉRIES: O Incrível Circo Digital (2023)" tvg-logo="https://image.tmdb.org/t/p/original/fYC8ZxtOFi9YL7FDQCoFIN0aMia.jpg",S01E01 - Piloto
+http://link-do-seu-servidor.com/ep01.mp4
+
+#EXTINF:-1 tvg-id="CircoDigital.S01E02" tvg-name="O Incrivel Circo Digital S01E02" group-title="SÉRIES: O Incrível Circo Digital (2023)" tvg-logo="https://image.tmdb.org/t/p/original/j5TahVbttd9TjCeo5gdzvVIo9lu.jpg",S01E02 - Caos no Reino do Desfiladeiro Doce
+http://link-do-seu-servidor.com/ep02.mp4
+
+#EXTINF:-1 tvg-id="CircoDigital.S01E03" tvg-name="O Incrivel Circo Digital S01E03" group-title="SÉRIES: O Incrível Circo Digital (2023)" tvg-logo="https://image.tmdb.org/t/p/original/itBq0copENYNNPqlgmzSUgFT5F6.jpg",S01E03 - O Mistério da Mansão Mildenhall
+http://link-do-seu-servidor.com/ep03.mp4
+
+#EXTINF:-1 tvg-id="CircoDigital.S01E04" tvg-name="O Incrivel Circo Digital S01E04" group-title="SÉRIES: O Incrível Circo Digital (2023)" tvg-logo="https://image.tmdb.org/t/p/original/wduxOxIVsbgVk6fAggtHQpN0SBE.jpg",S01E04 - Fast Food Mascarado
+http://link-do-seu-servidor.com/ep04.mp4
+
+#EXTINF:-1 tvg-id="CircoDigital.S01E05" tvg-name="O Incrivel Circo Digital S01E05" group-title="SÉRIES: O Incrível Circo Digital (2023)" tvg-logo="https://image.tmdb.org/t/p/original/ajqmLwgFFzOZBdLJr8VJZy6nMWL.jpg",S01E05 - Sem Título (Rodada Relâmpago)
+http://link-do-seu-servidor.com/ep05.mp4
+
+#EXTINF:-1 tvg-id="CircoDigital.S01E06" tvg-name="O Incrivel Circo Digital S01E06" group-title="SÉRIES: O Incrível Circo Digital (2023)" tvg-logo="https://image.tmdb.org/t/p/original/pAVAb9XbgRCZpbv2XHAhuJzRUGf.jpg",S01E06 - Todos Ganham Armas
+http://link-do-seu-servidor.com/ep06.mp4
+
+#EXTINF:-1 tvg-id="CircoDigital.S01E07" tvg-name="O Incrivel Circo Digital S01E07" group-title="SÉRIES: O Incrível Circo Digital (2023)" tvg-logo="https://image.tmdb.org/t/p/original/xAr6wLNOxsNijXNnhEmptQ1ILFu.jpg",S01E07 - Episódio de Praia
+http://link-do-seu-servidor.com/ep07.mp4
+
+#EXTINF:-1 tvg-id="CircoDigital.S01E08" tvg-name="O Incrivel Circo Digital S01E08" group-title="SÉRIES: O Incrível Circo Digital (2023)" tvg-logo="https://image.tmdb.org/t/p/original/60qINmqd1DJJ6DYkHdmL0zYt85J.jpg",S01E08 - Episódio 08
+http://link-do-seu-servidor.com/ep08.mp4
